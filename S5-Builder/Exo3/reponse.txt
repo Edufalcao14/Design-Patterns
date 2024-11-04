@@ -1,0 +1,20 @@
+COMPOSITE
+
+    IComponent --> Partie
+    Operation() --> demande() , getNiveau()
+    leaf --> Valeur
+    composite --> Groupe
+
+--------------------------------------------------------------
+VISITOR
+
+    Client  --> Main
+    Element --> Partie
+       accept() --> demande(Traitement)
+    Concrete Element --> Groupe , Valeur
+    Visitor --> Traitement
+      visit() -->traiteGroupe() , traiterValeur()
+    Concrete Visitor -->Listeur,ListeurrNom , Totaliseur
+
+----------------------------------------------------------------
+

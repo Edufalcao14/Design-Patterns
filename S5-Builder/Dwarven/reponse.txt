@@ -1,0 +1,13 @@
+
+  TEMPLATE METHOD
+
+  Abstract Class  --> DwarvenMineWorker
+  Template Method --> action() , toSleep() , wakeUp() ,gotoMine() ,goHome()
+  Primitive Operation --> work() , name()
+  Concrete Class --> DwarvenGoldDigger , DwarvenTunnelDigger  , DwarvenCartOperator
+
+   FACADE
+
+   Client --> Main
+   Facade --> DwavenGoldMine
+   ComplicateClass --> DwarvenGoldDigger , DwarvenTunnelDigger  , DwarvenCartOperator , DwarvenMineWorker

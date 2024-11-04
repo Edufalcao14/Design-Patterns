@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Dwarven/Dwarven.iml" filepath="$PROJECT_DIR$/Dwarven/Dwarven.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exo3/Exo3.iml" filepath="$PROJECT_DIR$/Exo3/Exo3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/S5-Builder.iml" filepath="$PROJECT_DIR$/S5-Builder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpotIply/SpotIply.iml" filepath="$PROJECT_DIR$/SpotIply/SpotIply.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Bear/Bear.iml" filepath="$PROJECT_DIR$/Bear/Bear.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MachineCafe/MachineCafe.iml" filepath="$PROJECT_DIR$/MachineCafe/MachineCafe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/S4-State.iml" filepath="$PROJECT_DIR$/S4-State.iml" />
+    </modules>
+  </component>
+</project>

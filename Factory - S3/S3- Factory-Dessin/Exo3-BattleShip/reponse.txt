@@ -1,0 +1,3 @@
+1. Pattern = Decorator -> Captain ( Implements BattleShip et a un attribut BattleShip)
+2. Pattern = Strategy -> Captain ( public void move(Distance distance) car la distance peut varier selon la method appellée
+3. Pattern =

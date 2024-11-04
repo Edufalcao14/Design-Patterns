@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Dessin/Dessin.iml" filepath="$PROJECT_DIR$/Dessin/Dessin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exo1.a - Products/Exo1 - Products.iml" filepath="$PROJECT_DIR$/Exo1.a - Products/Exo1 - Products.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exo1.b - Products/Exo1.b - Products.iml" filepath="$PROJECT_DIR$/Exo1.b - Products/Exo1.b - Products.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exo2-Boissons/Exo2-Boissons.iml" filepath="$PROJECT_DIR$/Exo2-Boissons/Exo2-Boissons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exo3-BattleShip/Exo3-BattleShip.iml" filepath="$PROJECT_DIR$/Exo3-BattleShip/Exo3-BattleShip.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LogicielDessinAbstractFactory/LogicielDessinStrategie.iml" filepath="$PROJECT_DIR$/LogicielDessinAbstractFactory/LogicielDessinStrategie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LogicielDessinFactoryMethod/LogicielDessinTemplateMethod.iml" filepath="$PROJECT_DIR$/LogicielDessinFactoryMethod/LogicielDessinTemplateMethod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/S3-Factory.iml" filepath="$PROJECT_DIR$/S3-Factory.iml" />
+    </modules>
+  </component>
+</project>
